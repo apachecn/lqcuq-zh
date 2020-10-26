@@ -96,3 +96,29 @@ Mezzacapo, Zlatko Minev, Ramis Movassagh, Giacomo Nannicni, Paul Nation,
 Anna Phan, Marco Pistoia, Arthur Rattew, Joachim Schaefer, Javad
 Shabani, John Smolin, Kristan Temme, Madeleine Tod, Stephen Wood, James
 Wootton.*
+
+## 下载
+
+### Docker
+
+```
+docker pull apachecn0/lqcuq-zh
+docker run -tid -p <port>:80 apachecn0/lqcuq-zh
+# 访问 http://localhost:{port} 查看文档
+```
+
+### PYPI
+
+```
+pip install lqcuq-zh
+lqcuq-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+### NPM
+
+```
+npm install -g lqcuq-zh
+lqcuq-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
