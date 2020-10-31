@@ -51,6 +51,13 @@ SDK 的同时通过本教程教授量子计算的概念。
 
 本教程构建于可以轻松阅读的 jupyter notebook 框架上，同时也可以让读者能够直接在本教程中编辑和运行代码。本教程的些章也可以在 IBM
 Quantum Experience 中以 jupyter notebook 的格式打开而无需安装！
+```Python
+print("This code works!")
+from qiskit import QuantumCircuit
+qc = QuantumCircuit(2) # Create circuit with 2 qubits qc.h(0) # Do H-gate on q0
+qc.cx(0,1) # Do CNOT on q1 controlled by q0 qc.measure_all()
+qc.draw()
+```
 
 ![](img/media/image3.png)
 
