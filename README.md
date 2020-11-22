@@ -1,7 +1,7 @@
 # <center><font size=20>使用 Qiskit 学习量子计算 - 翻译版</font></center>
 
 
-<center><img src="docs/img/media/image1.png"/></center> 
+<center><img src="docs/pics/media/image1.png"/></center> 
 
 
 
