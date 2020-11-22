@@ -1,6 +1,5 @@
-# <center>使用 Qiskit 学习量子计算 - 翻译版</center>
+# <center><font size=20>使用 Qiskit 学习量子计算 - 翻译版</font></center>
 
-<center><font size=20>Learn Quantum Computation using Qiskit（中文版）</font></center>
 
 <center><img src="docs/img/media/image1.png"/></center> 
 
