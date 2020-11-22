@@ -9,3 +9,4 @@
 - [7. 问题集与练习](docs/9.md)
 - [附录](docs/101.md)
 - [游戏与演示](docs/102.md)
+- [附件：在本地完全实现Qiskit TextBook](docs/103.md)
