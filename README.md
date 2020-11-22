@@ -23,7 +23,6 @@ Github：https://github.com/xushengun/
 
 # 前言
 
-![](docs/pics/media/image1.png)
 
 来自Qiskit社区团队的问候!本教程是Qiskit的大学量子算法/计算课程的补充：
 
