@@ -42,7 +42,7 @@ SDK的同时通过本教程教授量子计算的概念。
 ------------------
 
 本教程构建于可以轻松阅读的jupyter
-notebook框架上，同时也可以让读者能够直接在本教程中编辑和运行代码。本教程的些章也可以在IBM
+notebook框架上，同时也可以让读者能够直接在本教程中编辑和运行代码。本教程的某些章也可以在IBM
 Quantum Experience中以jupyter notebook的格式打开而无需安装！
 
 > print(\"This code works!\")
